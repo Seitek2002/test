@@ -1,0 +1,36 @@
+.hero {
+    text-align: center;
+}
+
+.hero__title {
+    
+    
+    font-size: 48px;
+    max-width: 818px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    margin-top: 74px;
+}
+
+.hero__btns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+.white-btn {
+    
+    font-size: 18px;
+    background: #fff;
+    border: 1px solid #DADEDF;
+    padding: 9px 20px;
+}
+
+.hero__city {
+    margin-top: 88px;
+}
+
+.hero__trucks {
+    margin-top: 36px;
+}

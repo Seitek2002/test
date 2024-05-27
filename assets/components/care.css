@@ -1,0 +1,24 @@
+.care {
+    margin-top: 140px;
+}
+
+.care__content {
+    display: flex;
+    align-items: center;
+}
+
+.care__info span {
+    position: relative;
+    line-height: 32px;
+}
+
+.yellow-line {
+    background: #FFD042;
+    width: 100%;
+    height: 16px;
+
+    position: absolute;
+    top: 10px;
+    left: 0;
+    z-index: -1;
+}

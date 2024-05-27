@@ -1,0 +1,53 @@
+.deliver {
+    margin-top: 143px;
+}
+
+.deliver h2 {
+    font-size: 32px;
+    text-align: center;
+}
+
+.deliver p {
+    font-size: 20px;
+    text-align: center;
+    max-width: 643px;
+    margin: 0 auto;
+    margin-top: 21px;
+}
+
+.deliver__content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 27px;
+    margin-top: 43px;
+}
+
+.deliver__item {
+    display: flex;
+    align-items: start;
+    gap: 16px;
+    margin-bottom: 33px;
+}
+
+.deliver__item h3 {
+    font-size: 18px;
+}
+
+.deliver__details span {
+    display: block;
+    width: 270px;
+    color: #72787D;
+    margin-top: 11px;
+}
+
+.deliver__bottom {
+    color: #72787D;
+    text-align: center;
+    margin-top: 22px;
+}
+
+.deliver__bottom span {
+    position: relative;
+    color: #212B31;
+}

@@ -1,0 +1,22 @@
+.chaos {
+    margin-top: 142px;
+}
+
+.chaos__content {
+    text-align: center;
+}
+
+.chaos__content h2 {
+    font-size: 32px;
+    margin-bottom: 0;
+}
+
+.chaos__content p {
+    font-size: 20px;
+    margin-top: 16px;
+    line-height: 32px;
+}
+
+.chaos__img {
+    margin-top: 40px;
+}
